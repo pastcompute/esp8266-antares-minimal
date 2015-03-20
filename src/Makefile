@@ -1,2 +1,2 @@
-objects-y+=main.o helpers.o uart.o
+objects-y+=main.o hostname.o log.o uart.o
 subdirs-y+=lwip
